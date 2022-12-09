@@ -1,0 +1,36 @@
+GraphSage.xmind:论文思维导图
+
+Graph_sage_code.xmind:代码结构思维导图
+
+Graphsage-Pytorch-Inductive-Central:基于原代码,加入了度中心性,并对数据集做了Inductive处理。
+
+            Inductive处理:
+                    #cite文件里节点关系共有4中情况， 有train-train， train-非train， 非train-train， 非train-非train， 
+
+                    if node_map[pair[0]] not in adj_lists: adj_lists[node_map[pair[0]]] = set()
+                    if node_map[pair[1]] not in adj_lists: adj_lists[node_map[pair[1]]] = set()
+
+                    if node_map[pair[0]] in train_index and node_map[pair[1]] in train_index:  #保证train节点只与train节点相关联
+                        adj_lists[node_map[pair[0]]].add(node_map[pair[1]])
+                        adj_lists[node_map[pair[1]]].add(node_map[pair[0]])      
+                    
+                    if node_map[pair[0]] not in train_index:
+                        if node_map[pair[1]] in train_index:        #非train-train只能单向,双向可以逆向加入。
+                            adj_lists[node_map[pair[0]]].add(node_map[pair[1]])
+                        else:                                       #非train-非train可以双向
+                            adj_lists[node_map[pair[0]]].add(node_map[pair[1]])
+                            adj_lists[node_map[pair[1]]].add(node_map[pair[0]])
+            
+            adj_lists_copy = adj_lists.copy()
+
+            for demo in adj_lists:
+                if demo in train_index and len(adj_lists[demo]) == 0:
+                    del adj_lists_copy[demo]
+                    i, = np.where(train_index == demo)
+                    train_index = np.delete(train_index,i)
+
+            adj_lists = adj_lists_copy
+
+            
+
+graph-sage_code-update.pdf:总结
