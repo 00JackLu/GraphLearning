@@ -1,0 +1,4696 @@
+GraphSage with Net Unsupervised Learning
+----------------------EPOCH 0-----------------------
+Step [1/65], Loss: 10.6680, Dealed Nodes [1014/1291] 
+Step [2/65], Loss: 12.2596, Dealed Nodes [1208/1291] 
+Step [3/65], Loss: 11.9335, Dealed Nodes [1259/1291] 
+Step [4/65], Loss: 11.1470, Dealed Nodes [1282/1291] 
+Step [5/65], Loss: 11.2281, Dealed Nodes [1289/1291] 
+Step [6/65], Loss: 10.3251, Dealed Nodes [1291/1291] 
+Step [7/65], Loss: 10.8061, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 9.9903, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 9.3785, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 8.7050, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 8.3000, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 8.0120, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.8228, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.6522, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.7884, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.6923, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.8458, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.7638, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.6871, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 8.1769, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 9.9168, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 8.4747, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 8.2398, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.9434, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.8358, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.7380, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.6447, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.8244, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.8687, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 8.1967, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 8.1365, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 8.2606, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 8.3969, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 8.5737, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 8.0903, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 8.1150, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.8021, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 8.3329, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 9.1112, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 8.3918, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 8.1151, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 8.1658, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.9102, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.9163, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.7477, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.7084, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.6440, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.5658, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4831, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.4890, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.5359, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.4882, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.5792, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.4353, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.4803, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.5001, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.6131, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.5047, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.4687, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.6950, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.6202, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.5369, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.5099, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.4519, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.4717, Dealed Nodes [1291/1291] 
+----------------------EPOCH 1-----------------------
+Step [1/65], Loss: 7.6272, Dealed Nodes [1010/1291] 
+Step [2/65], Loss: 7.4877, Dealed Nodes [1209/1291] 
+Step [3/65], Loss: 7.4112, Dealed Nodes [1263/1291] 
+Step [4/65], Loss: 7.5061, Dealed Nodes [1276/1291] 
+Step [5/65], Loss: 7.5097, Dealed Nodes [1287/1291] 
+Step [6/65], Loss: 7.5686, Dealed Nodes [1287/1291] 
+Step [7/65], Loss: 7.4708, Dealed Nodes [1290/1291] 
+Step [8/65], Loss: 7.5778, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.5010, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.5320, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4600, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.5838, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.4872, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4625, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.5340, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.5560, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4770, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4852, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.4790, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4900, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.5172, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.5008, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.5324, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.5446, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.5060, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.5278, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.5754, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.5317, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.5028, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4493, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.5081, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 10.3722, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 8.9282, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 8.6402, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.7135, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 8.2135, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.8885, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.8071, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.5813, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.6256, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.6267, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.5419, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.5341, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 8.6840, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.7800, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 8.2765, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.7428, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.6795, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.7696, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.6425, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4949, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.5062, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4910, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.3992, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.4856, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4154, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4147, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.6573, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.5285, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.5423, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.5278, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4927, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.4208, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.5112, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.5059, Dealed Nodes [1291/1291] 
+Validation F1 : 0.414634 
+Test F1 : 0.445676 
+Validation F1 : 0.445676 
+Test F1 : 0.475610 
+Validation F1 : 0.465632 
+Test F1 : 0.496674 
+Validation F1 : 0.485588 
+Test F1 : 0.526608 
+Validation F1 : 0.494457 
+Test F1 : 0.543237 
+Validation F1 : 0.521064 
+Test F1 : 0.559867 
+Validation F1 : 0.538803 
+Test F1 : 0.569845 
+Validation F1 : 0.554324 
+Test F1 : 0.579823 
+Validation F1 : 0.563193 
+Test F1 : 0.594235 
+Validation F1 : 0.565410 
+Test F1 : 0.594235 
+Validation F1 : 0.569845 
+Test F1 : 0.605322 
+Validation F1 : 0.572062 
+Test F1 : 0.610865 
+Validation F1 : 0.578714 
+Test F1 : 0.609756 
+Validation F1 : 0.580931 
+Test F1 : 0.615299 
+Validation F1 : 0.596452 
+Test F1 : 0.626386 
+Validation F1 : 0.587583 
+Validation F1 : 0.594235 
+Validation F1 : 0.598670 
+Test F1 : 0.630820 
+Validation F1 : 0.607539 
+Test F1 : 0.643016 
+Validation F1 : 0.609756 
+Test F1 : 0.647450 
+Validation F1 : 0.600887 
+Validation F1 : 0.609756 
+Validation F1 : 0.611973 
+Test F1 : 0.648559 
+Validation F1 : 0.607539 
+Validation F1 : 0.609756 
+Validation F1 : 0.609756 
+Validation F1 : 0.611973 
+Validation F1 : 0.611973 
+Validation F1 : 0.609756 
+Validation F1 : 0.611973 
+Validation F1 : 0.623060 
+Test F1 : 0.660754 
+Validation F1 : 0.618625 
+Validation F1 : 0.618625 
+Validation F1 : 0.623060 
+Validation F1 : 0.614191 
+Validation F1 : 0.620843 
+Validation F1 : 0.620843 
+Validation F1 : 0.620843 
+Validation F1 : 0.620843 
+Validation F1 : 0.620843 
+Validation F1 : 0.623060 
+Validation F1 : 0.625277 
+Test F1 : 0.662971 
+Validation F1 : 0.623060 
+Validation F1 : 0.625277 
+Validation F1 : 0.634146 
+Test F1 : 0.662971 
+Validation F1 : 0.625277 
+Validation F1 : 0.631929 
+Validation F1 : 0.631929 
+Validation F1 : 0.623060 
+Validation F1 : 0.623060 
+Validation F1 : 0.625277 
+Validation F1 : 0.625277 
+Validation F1 : 0.627494 
+Validation F1 : 0.627494 
+Validation F1 : 0.629712 
+Validation F1 : 0.629712 
+Validation F1 : 0.627494 
+Validation F1 : 0.636364 
+Test F1 : 0.669623 
+Validation F1 : 0.631929 
+Validation F1 : 0.631929 
+Validation F1 : 0.627494 
+Validation F1 : 0.629712 
+Validation F1 : 0.631929 
+Validation F1 : 0.643016 
+Test F1 : 0.668514 
+Validation F1 : 0.643016 
+Validation F1 : 0.629712 
+Validation F1 : 0.634146 
+Validation F1 : 0.629712 
+Validation F1 : 0.631929 
+Validation F1 : 0.636364 
+Validation F1 : 0.631929 
+Validation F1 : 0.640798 
+Validation F1 : 0.638581 
+Validation F1 : 0.636364 
+Validation F1 : 0.645233 
+Test F1 : 0.668514 
+Validation F1 : 0.638581 
+Validation F1 : 0.636364 
+Validation F1 : 0.634146 
+Validation F1 : 0.643016 
+Validation F1 : 0.651885 
+Test F1 : 0.668514 
+Validation F1 : 0.643016 
+Validation F1 : 0.643016 
+Validation F1 : 0.629712 
+Validation F1 : 0.654102 
+Test F1 : 0.668514 
+Validation F1 : 0.643016 
+Validation F1 : 0.651885 
+Validation F1 : 0.645233 
+Validation F1 : 0.640798 
+Validation F1 : 0.636364 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.634146 
+Validation F1 : 0.647450 
+Validation F1 : 0.643016 
+Validation F1 : 0.636364 
+Validation F1 : 0.649667 
+Validation F1 : 0.640798 
+Validation F1 : 0.649667 
+Validation F1 : 0.658537 
+Test F1 : 0.678492 
+Validation F1 : 0.649667 
+Validation F1 : 0.651885 
+Validation F1 : 0.658537 
+Validation F1 : 0.651885 
+Validation F1 : 0.649667 
+Validation F1 : 0.651885 
+Validation F1 : 0.651885 
+Validation F1 : 0.654102 
+Validation F1 : 0.656319 
+Validation F1 : 0.651885 
+Validation F1 : 0.647450 
+Validation F1 : 0.647450 
+Validation F1 : 0.651885 
+Validation F1 : 0.645233 
+Validation F1 : 0.651885 
+Validation F1 : 0.658537 
+Validation F1 : 0.645233 
+Validation F1 : 0.645233 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.647450 
+Validation F1 : 0.651885 
+Validation F1 : 0.651885 
+Validation F1 : 0.651885 
+Validation F1 : 0.656319 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.660754 
+Test F1 : 0.680710 
+Validation F1 : 0.647450 
+Validation F1 : 0.647450 
+Validation F1 : 0.649667 
+Validation F1 : 0.656319 
+Validation F1 : 0.656319 
+Validation F1 : 0.651885 
+Validation F1 : 0.651885 
+Validation F1 : 0.649667 
+Validation F1 : 0.649667 
+Validation F1 : 0.660754 
+Validation F1 : 0.658537 
+Validation F1 : 0.658537 
+Validation F1 : 0.651885 
+Validation F1 : 0.660754 
+Validation F1 : 0.656319 
+Validation F1 : 0.649667 
+Validation F1 : 0.651885 
+Validation F1 : 0.662971 
+Test F1 : 0.679601 
+Validation F1 : 0.660754 
+Validation F1 : 0.656319 
+Validation F1 : 0.645233 
+Validation F1 : 0.649667 
+Validation F1 : 0.660754 
+Validation F1 : 0.651885 
+Validation F1 : 0.649667 
+Validation F1 : 0.660754 
+Validation F1 : 0.654102 
+Validation F1 : 0.654102 
+Validation F1 : 0.649667 
+Validation F1 : 0.654102 
+Validation F1 : 0.658537 
+Validation F1 : 0.649667 
+Validation F1 : 0.662971 
+Validation F1 : 0.654102 
+Validation F1 : 0.649667 
+Validation F1 : 0.656319 
+Validation F1 : 0.667406 
+Test F1 : 0.680710 
+Validation F1 : 0.654102 
+Validation F1 : 0.656319 
+Validation F1 : 0.651885 
+Validation F1 : 0.662971 
+Validation F1 : 0.649667 
+Validation F1 : 0.654102 
+Validation F1 : 0.662971 
+Validation F1 : 0.662971 
+Validation F1 : 0.654102 
+Validation F1 : 0.674058 
+Test F1 : 0.681818 
+Validation F1 : 0.660754 
+Validation F1 : 0.667406 
+Validation F1 : 0.654102 
+Validation F1 : 0.651885 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.658537 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.665188 
+Validation F1 : 0.665188 
+Validation F1 : 0.665188 
+Validation F1 : 0.665188 
+Validation F1 : 0.658537 
+Validation F1 : 0.665188 
+Validation F1 : 0.658537 
+Validation F1 : 0.665188 
+Validation F1 : 0.662971 
+Validation F1 : 0.662971 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.658537 
+Validation F1 : 0.669623 
+Validation F1 : 0.656319 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.656319 
+Validation F1 : 0.662971 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.656319 
+Validation F1 : 0.660754 
+Validation F1 : 0.660754 
+Validation F1 : 0.665188 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.660754 
+Validation F1 : 0.662971 
+Validation F1 : 0.660754 
+Validation F1 : 0.665188 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.656319 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.662971 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.665188 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.665188 
+Validation F1 : 0.662971 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.654102 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.669623 
+Validation F1 : 0.662971 
+Validation F1 : 0.667406 
+Validation F1 : 0.662971 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.665188 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.665188 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.665188 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.665188 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.667406 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.665188 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.665188 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.662971 
+Validation F1 : 0.671840 
+Validation F1 : 0.667406 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.667406 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.669623 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Test F1 : 0.691796 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.678492 
+Test F1 : 0.694013 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.669623 
+Validation F1 : 0.678492 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.678492 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.678492 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.678492 
+Validation F1 : 0.676275 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.676275 
+Validation F1 : 0.671840 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.671840 
+Validation F1 : 0.680710 
+Test F1 : 0.697339 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.678492 
+Validation F1 : 0.678492 
+Validation F1 : 0.674058 
+Validation F1 : 0.680710 
+Validation F1 : 0.678492 
+Validation F1 : 0.674058 
+Validation F1 : 0.678492 
+Validation F1 : 0.676275 
+Validation F1 : 0.676275 
+Validation F1 : 0.680710 
+Validation F1 : 0.678492 
+Validation F1 : 0.674058 
+Validation F1 : 0.680710 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.674058 
+Validation F1 : 0.678492 
+----------------------EPOCH 2-----------------------
+Step [1/65], Loss: 7.4364, Dealed Nodes [1004/1291] 
+Step [2/65], Loss: 7.4194, Dealed Nodes [1223/1291] 
+Step [3/65], Loss: 7.4147, Dealed Nodes [1276/1291] 
+Step [4/65], Loss: 7.5078, Dealed Nodes [1286/1291] 
+Step [5/65], Loss: 7.5165, Dealed Nodes [1288/1291] 
+Step [6/65], Loss: 7.4092, Dealed Nodes [1291/1291] 
+Step [7/65], Loss: 7.5457, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.4553, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.5529, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.4425, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.5206, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.5185, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.4534, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4553, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.4693, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.3936, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4368, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4655, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.5187, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.5318, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.4521, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.4266, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4305, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.4615, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.3774, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.5722, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.5191, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4111, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.4909, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4685, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4664, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4872, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.4908, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4291, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.4973, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4734, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4856, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.4289, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4973, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.5620, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.4953, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.5064, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4956, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.4901, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.4913, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.4582, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.5100, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4200, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4503, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.4528, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4363, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.5074, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4397, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.5191, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.6211, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4571, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4818, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.4886, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.5267, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.4021, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.5165, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4600, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.4959, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.5639, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.4811, Dealed Nodes [1291/1291] 
+----------------------EPOCH 3-----------------------
+Step [1/65], Loss: 7.4499, Dealed Nodes [985/1291] 
+Step [2/65], Loss: 7.4706, Dealed Nodes [1215/1291] 
+Step [3/65], Loss: 7.4503, Dealed Nodes [1271/1291] 
+Step [4/65], Loss: 7.4403, Dealed Nodes [1285/1291] 
+Step [5/65], Loss: 7.4936, Dealed Nodes [1288/1291] 
+Step [6/65], Loss: 7.4644, Dealed Nodes [1290/1291] 
+Step [7/65], Loss: 7.5447, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.4570, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.5331, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.4917, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.5329, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.4758, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.4748, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4736, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.4767, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.4514, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.5057, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4368, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.4550, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4463, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.4429, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.4405, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4774, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.4600, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.5096, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.4520, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4809, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4876, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.5384, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4254, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4085, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4829, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.5589, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4879, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.5067, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4273, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4940, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.5169, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4766, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.5015, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.5119, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.4016, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4149, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.4388, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.4514, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.4130, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.5062, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4711, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4440, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.4761, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4585, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.4582, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4838, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.5431, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.4823, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4969, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4164, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.5037, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.5412, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.4515, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.5148, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.3943, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.4554, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.4953, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.5548, Dealed Nodes [1291/1291] 
+Validation F1 : 0.494457 
+Validation F1 : 0.505543 
+Validation F1 : 0.507761 
+Validation F1 : 0.509978 
+Validation F1 : 0.514412 
+Validation F1 : 0.514412 
+Validation F1 : 0.516630 
+Validation F1 : 0.516630 
+Validation F1 : 0.514412 
+Validation F1 : 0.516630 
+Validation F1 : 0.514412 
+Validation F1 : 0.514412 
+Validation F1 : 0.514412 
+Validation F1 : 0.514412 
+Validation F1 : 0.516630 
+Validation F1 : 0.516630 
+Validation F1 : 0.516630 
+Validation F1 : 0.516630 
+Validation F1 : 0.516630 
+Validation F1 : 0.516630 
+Validation F1 : 0.523282 
+Validation F1 : 0.532151 
+Validation F1 : 0.518847 
+Validation F1 : 0.518847 
+Validation F1 : 0.521064 
+Validation F1 : 0.521064 
+Validation F1 : 0.521064 
+Validation F1 : 0.521064 
+Validation F1 : 0.523282 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.523282 
+Validation F1 : 0.534368 
+Validation F1 : 0.527716 
+Validation F1 : 0.523282 
+Validation F1 : 0.523282 
+Validation F1 : 0.523282 
+Validation F1 : 0.532151 
+Validation F1 : 0.523282 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.523282 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.543237 
+Validation F1 : 0.532151 
+Validation F1 : 0.541020 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.543237 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.541020 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.541020 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.536585 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.543237 
+Validation F1 : 0.529933 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.545455 
+Validation F1 : 0.529933 
+Validation F1 : 0.541020 
+Validation F1 : 0.532151 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.541020 
+Validation F1 : 0.541020 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.552106 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.534368 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.552106 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.552106 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.549889 
+Validation F1 : 0.549889 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.549889 
+----------------------EPOCH 4-----------------------
+Step [1/65], Loss: 7.5123, Dealed Nodes [1022/1291] 
+Step [2/65], Loss: 7.4603, Dealed Nodes [1211/1291] 
+Step [3/65], Loss: 7.4869, Dealed Nodes [1266/1291] 
+Step [4/65], Loss: 7.4574, Dealed Nodes [1285/1291] 
+Step [5/65], Loss: 7.5179, Dealed Nodes [1289/1291] 
+Step [6/65], Loss: 7.5610, Dealed Nodes [1289/1291] 
+Step [7/65], Loss: 7.5247, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.4432, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.4211, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.5104, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4937, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.5082, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.5018, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4682, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.3967, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.5077, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4410, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4945, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.4951, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4033, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.4671, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.5064, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4838, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.4647, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.5093, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.4870, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4600, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4374, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.5125, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4644, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4006, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4795, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.4661, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.5165, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.4606, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4473, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4925, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.3751, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4363, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.4487, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.4930, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.4658, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.5245, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.4812, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.5292, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.5025, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.5108, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4678, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4626, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.5096, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4458, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.4457, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4297, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.4917, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.5001, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4073, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.5181, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.5466, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.4698, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.5380, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.5022, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4516, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.4066, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.4432, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.4827, Dealed Nodes [1291/1291] 
+----------------------EPOCH 5-----------------------
+Step [1/65], Loss: 7.4316, Dealed Nodes [1020/1291] 
+Step [2/65], Loss: 7.4468, Dealed Nodes [1224/1291] 
+Step [3/65], Loss: 7.5137, Dealed Nodes [1266/1291] 
+Step [4/65], Loss: 7.4696, Dealed Nodes [1281/1291] 
+Step [5/65], Loss: 7.4261, Dealed Nodes [1289/1291] 
+Step [6/65], Loss: 7.4874, Dealed Nodes [1290/1291] 
+Step [7/65], Loss: 7.4850, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.4753, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.4442, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.3857, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4246, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.4516, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.5145, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4256, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.4742, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.4303, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4855, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.5413, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.4765, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4807, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.4891, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.4475, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4909, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.4591, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.4192, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.4890, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4506, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4571, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.4368, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4391, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4851, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.5004, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.4591, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4084, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.5524, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.5722, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.5475, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.4889, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4742, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.4997, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.4854, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.5080, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4623, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.4917, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.5079, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.4415, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.5018, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.5128, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4624, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.4316, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4106, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.4771, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.5726, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.4690, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.4320, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4243, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4550, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.5151, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.5387, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.4593, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.5129, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.5018, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.4324, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.4751, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.3582, Dealed Nodes [1291/1291] 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.545455 
+Validation F1 : 0.536585 
+Validation F1 : 0.545455 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.545455 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.545455 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.545455 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.545455 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.545455 
+Validation F1 : 0.541020 
+Validation F1 : 0.529933 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.541020 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.541020 
+Validation F1 : 0.534368 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.543237 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.529933 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.541020 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.534368 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.536585 
+Validation F1 : 0.536585 
+Validation F1 : 0.534368 
+----------------------EPOCH 6-----------------------
+Step [1/65], Loss: 7.4197, Dealed Nodes [1015/1291] 
+Step [2/65], Loss: 7.4415, Dealed Nodes [1225/1291] 
+Step [3/65], Loss: 7.4919, Dealed Nodes [1277/1291] 
+Step [4/65], Loss: 7.4537, Dealed Nodes [1289/1291] 
+Step [5/65], Loss: 7.4358, Dealed Nodes [1291/1291] 
+Step [6/65], Loss: 7.4764, Dealed Nodes [1291/1291] 
+Step [7/65], Loss: 7.4678, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.4425, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.4333, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.4706, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4398, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.4585, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.5187, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.5144, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.5326, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.5545, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4551, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.5312, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.4377, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4842, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.4927, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.4492, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4665, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.5059, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.4346, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.4152, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4990, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4729, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.3659, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4864, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4677, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4339, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.4356, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4315, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.5385, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4854, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4679, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.4507, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4558, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.5295, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.5223, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.4604, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4712, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.5346, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.4882, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.4838, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.4693, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4537, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4207, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.4295, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4912, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.4464, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4704, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.4456, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.5213, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4818, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4358, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.4640, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.5334, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.4370, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.4407, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4804, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.5774, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.5168, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.5768, Dealed Nodes [1291/1291] 
+----------------------EPOCH 7-----------------------
+Step [1/65], Loss: 7.4775, Dealed Nodes [1040/1291] 
+Step [2/65], Loss: 7.4685, Dealed Nodes [1233/1291] 
+Step [3/65], Loss: 7.4727, Dealed Nodes [1271/1291] 
+Step [4/65], Loss: 7.4708, Dealed Nodes [1287/1291] 
+Step [5/65], Loss: 7.4167, Dealed Nodes [1289/1291] 
+Step [6/65], Loss: 7.4861, Dealed Nodes [1290/1291] 
+Step [7/65], Loss: 7.4255, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.4426, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.4900, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.5179, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4803, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.4535, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.4790, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4663, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.4745, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.3965, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4970, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4650, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.5016, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4933, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.5065, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.4609, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4347, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.4707, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.4398, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.4591, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4910, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4618, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.5098, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.5150, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4436, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4740, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.4829, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4416, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.4098, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4300, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4946, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.4968, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4983, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.4640, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.4486, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.3854, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4982, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.5141, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.4087, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.4300, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.4343, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4953, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4906, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.5553, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4945, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.5171, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4669, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.5037, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.4792, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4956, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4626, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.4750, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.4119, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.5272, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.4873, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4869, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.4846, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.4520, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.4262, Dealed Nodes [1291/1291] 
+Validation F1 : 0.514412 
+Validation F1 : 0.518847 
+Validation F1 : 0.521064 
+Validation F1 : 0.523282 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.525499 
+Validation F1 : 0.525499 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.525499 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.527716 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+Validation F1 : 0.527716 
+Validation F1 : 0.529933 
+Validation F1 : 0.532151 
+----------------------EPOCH 8-----------------------
+Step [1/65], Loss: 7.4830, Dealed Nodes [1037/1291] 
+Step [2/65], Loss: 7.5431, Dealed Nodes [1223/1291] 
+Step [3/65], Loss: 7.4386, Dealed Nodes [1263/1291] 
+Step [4/65], Loss: 7.4704, Dealed Nodes [1283/1291] 
+Step [5/65], Loss: 7.4971, Dealed Nodes [1290/1291] 
+Step [6/65], Loss: 7.4390, Dealed Nodes [1290/1291] 
+Step [7/65], Loss: 7.5027, Dealed Nodes [1291/1291] 
+Step [8/65], Loss: 7.5339, Dealed Nodes [1291/1291] 
+Step [9/65], Loss: 7.5109, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.5072, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4392, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.5055, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.4562, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4729, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.4438, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.5243, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.4832, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4226, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.5095, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4776, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.4556, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.4486, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.4872, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.5033, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.4979, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.5255, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4121, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4473, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.4580, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.5065, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.4422, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4650, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.4747, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4743, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.5032, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4767, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4077, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.5438, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.4480, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.4335, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.5234, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.3954, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4572, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.4622, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.4188, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.5107, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.4749, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4776, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4396, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.5083, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4120, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.4521, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.5166, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.4997, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.5138, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4879, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4827, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.4593, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.5534, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.4379, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.4771, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4635, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.5104, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.4824, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.5485, Dealed Nodes [1291/1291] 
+----------------------EPOCH 9-----------------------
+Step [1/65], Loss: 7.5208, Dealed Nodes [1026/1291] 
+Step [2/65], Loss: 7.5041, Dealed Nodes [1232/1291] 
+Step [3/65], Loss: 7.4253, Dealed Nodes [1273/1291] 
+Step [4/65], Loss: 7.4640, Dealed Nodes [1285/1291] 
+Step [5/65], Loss: 7.4262, Dealed Nodes [1288/1291] 
+Step [6/65], Loss: 7.4365, Dealed Nodes [1289/1291] 
+Step [7/65], Loss: 7.5179, Dealed Nodes [1289/1291] 
+Step [8/65], Loss: 7.4594, Dealed Nodes [1290/1291] 
+Step [9/65], Loss: 7.5243, Dealed Nodes [1291/1291] 
+Step [10/65], Loss: 7.5083, Dealed Nodes [1291/1291] 
+Step [11/65], Loss: 7.4159, Dealed Nodes [1291/1291] 
+Step [12/65], Loss: 7.4172, Dealed Nodes [1291/1291] 
+Step [13/65], Loss: 7.4674, Dealed Nodes [1291/1291] 
+Step [14/65], Loss: 7.4689, Dealed Nodes [1291/1291] 
+Step [15/65], Loss: 7.5139, Dealed Nodes [1291/1291] 
+Step [16/65], Loss: 7.4785, Dealed Nodes [1291/1291] 
+Step [17/65], Loss: 7.3892, Dealed Nodes [1291/1291] 
+Step [18/65], Loss: 7.4701, Dealed Nodes [1291/1291] 
+Step [19/65], Loss: 7.4387, Dealed Nodes [1291/1291] 
+Step [20/65], Loss: 7.4765, Dealed Nodes [1291/1291] 
+Step [21/65], Loss: 7.5321, Dealed Nodes [1291/1291] 
+Step [22/65], Loss: 7.5227, Dealed Nodes [1291/1291] 
+Step [23/65], Loss: 7.5331, Dealed Nodes [1291/1291] 
+Step [24/65], Loss: 7.4828, Dealed Nodes [1291/1291] 
+Step [25/65], Loss: 7.4676, Dealed Nodes [1291/1291] 
+Step [26/65], Loss: 7.5058, Dealed Nodes [1291/1291] 
+Step [27/65], Loss: 7.4334, Dealed Nodes [1291/1291] 
+Step [28/65], Loss: 7.4640, Dealed Nodes [1291/1291] 
+Step [29/65], Loss: 7.4865, Dealed Nodes [1291/1291] 
+Step [30/65], Loss: 7.4778, Dealed Nodes [1291/1291] 
+Step [31/65], Loss: 7.5061, Dealed Nodes [1291/1291] 
+Step [32/65], Loss: 7.4803, Dealed Nodes [1291/1291] 
+Step [33/65], Loss: 7.5237, Dealed Nodes [1291/1291] 
+Step [34/65], Loss: 7.4208, Dealed Nodes [1291/1291] 
+Step [35/65], Loss: 7.4548, Dealed Nodes [1291/1291] 
+Step [36/65], Loss: 7.4625, Dealed Nodes [1291/1291] 
+Step [37/65], Loss: 7.4870, Dealed Nodes [1291/1291] 
+Step [38/65], Loss: 7.4677, Dealed Nodes [1291/1291] 
+Step [39/65], Loss: 7.5406, Dealed Nodes [1291/1291] 
+Step [40/65], Loss: 7.5211, Dealed Nodes [1291/1291] 
+Step [41/65], Loss: 7.4863, Dealed Nodes [1291/1291] 
+Step [42/65], Loss: 7.4876, Dealed Nodes [1291/1291] 
+Step [43/65], Loss: 7.4611, Dealed Nodes [1291/1291] 
+Step [44/65], Loss: 7.4242, Dealed Nodes [1291/1291] 
+Step [45/65], Loss: 7.4374, Dealed Nodes [1291/1291] 
+Step [46/65], Loss: 7.4842, Dealed Nodes [1291/1291] 
+Step [47/65], Loss: 7.4724, Dealed Nodes [1291/1291] 
+Step [48/65], Loss: 7.4927, Dealed Nodes [1291/1291] 
+Step [49/65], Loss: 7.4764, Dealed Nodes [1291/1291] 
+Step [50/65], Loss: 7.4427, Dealed Nodes [1291/1291] 
+Step [51/65], Loss: 7.4595, Dealed Nodes [1291/1291] 
+Step [52/65], Loss: 7.5387, Dealed Nodes [1291/1291] 
+Step [53/65], Loss: 7.4865, Dealed Nodes [1291/1291] 
+Step [54/65], Loss: 7.4896, Dealed Nodes [1291/1291] 
+Step [55/65], Loss: 7.3887, Dealed Nodes [1291/1291] 
+Step [56/65], Loss: 7.4319, Dealed Nodes [1291/1291] 
+Step [57/65], Loss: 7.4996, Dealed Nodes [1291/1291] 
+Step [58/65], Loss: 7.4260, Dealed Nodes [1291/1291] 
+Step [59/65], Loss: 7.4366, Dealed Nodes [1291/1291] 
+Step [60/65], Loss: 7.5252, Dealed Nodes [1291/1291] 
+Step [61/65], Loss: 7.5049, Dealed Nodes [1291/1291] 
+Step [62/65], Loss: 7.4926, Dealed Nodes [1291/1291] 
+Step [63/65], Loss: 7.5570, Dealed Nodes [1291/1291] 
+Step [64/65], Loss: 7.5417, Dealed Nodes [1291/1291] 
+Step [65/65], Loss: 7.4246, Dealed Nodes [1291/1291] 
+Validation F1 : 0.538803 
+Validation F1 : 0.538803 
+Validation F1 : 0.541020 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.543237 
+Validation F1 : 0.541020 
+Validation F1 : 0.541020 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.543237 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.545455 
+Validation F1 : 0.545455 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
+Validation F1 : 0.547672 
